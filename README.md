@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###简介
 
 关于Demo的介绍可以参考[RESTful登录设计（基于Spring及Redis的Token鉴权）][1]
@@ -33,3 +34,6 @@
 
 [1]:http://www.scienjus.com/restful-token-authorization/
 [2]:https://github.com/ScienJus/spring-authorization-manager
+=======
+# springboot
+>>>>>>> b5070acd53fe457cdf96dcefbeb49b00af0ee380
