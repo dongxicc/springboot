@@ -1,0 +1,16 @@
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\config\MvcConfig.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\config\Constants.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\controller\TokenController.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\model\TokenModel.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\resolvers\CurrentUserMethodArgumentResolver.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\repository\UserRepository.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\Application.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\annotation\Authorization.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\interceptor\AuthorizationInterceptor.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\manager\impl\RedisTokenManager.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\config\SwaggerConfig.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\config\ResultStatus.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\annotation\CurrentUser.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\model\ResultModel.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\domain\User.java
+C:\Users\dongx\Downloads\spring-restful-authorization-master\src\main\java\com\scienjus\authorization\manager\TokenManager.java
